@@ -1,0 +1,10 @@
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,148,253,1) 50%, rgba(69,176,252,0.27356880252100846)
+     100%);}
+     .container1{
+        background-color: none;
+     }
+     h1,h4,h2, h3, p, li{
+      font-family: 'EB Garamond', serif;
+     }
